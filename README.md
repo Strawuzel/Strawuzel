@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Strawuzel
 - 👀 I’m interested in object oriented languages. JAVA, C#, C++ and JS
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning React for Frontend- and Node.js/Express for Backendprogramming
 - 💞️ I’m looking to collaborate on anything tbh. I'd like to expand my repository and am interested in learning new technologies
 
 <!---
